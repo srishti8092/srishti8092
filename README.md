@@ -49,13 +49,10 @@ Checkout my public repositories instead of pinned repositories!
 
 <div align="center">
 
-### Stats with White Background
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000)
 
-### Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti8092&theme=default&background=ffffff)](https://github.com/srishti8092)
 
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti8092&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000)
 
 </div>
