@@ -65,21 +65,6 @@ I've built 10+ production systems and open-source contributions. Check out my pi
 
 ---
 
-## 📈 Core Skills & Competencies
-
-| Skill                            | Proficiency |
-| -------------------------------- | ----------- |
-| **Backend Development**          | Expert      |
-| **System Design & Architecture** | Expert      |
-| **Database Optimization**        | Advanced    |
-| **RESTful & GraphQL APIs**       | Expert      |
-| **Cloud Infrastructure (AWS)**   | Advanced    |
-| **Microservices Architecture**   | Advanced    |
-| **Team Leadership & Mentoring**  | Advanced    |
-| **DevOps & CI/CD**               | Advanced    |
-
----
-
 ## � GitHub Stats
 
 <div align="center">
