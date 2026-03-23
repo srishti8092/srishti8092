@@ -65,15 +65,6 @@ I've built 10+ production systems and open-source contributions. Check out my pi
 
 ---
 
-## � GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishti8092&layout=compact&theme=dark" />
-</div>
-
----
-
 ## 🏆 Key Achievements
 
 - 🚀 Built 10+ production-grade backend systems with 99.9% uptime
@@ -100,7 +91,6 @@ I'm open to opportunities involving:
 
 - **Backend/Full-Stack Engineering** — Building systems at scale
 - **Startup roles** — Early-stage product development with impact
-- **Team Lead/Architect** — Mentoring teams and making architectural decisions
 - **Freelance/Contract** — Short-term projects with clear deliverables
 
 ---
