@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Backend Engineer | Node.js | AWS | GraphQL**
+**Backend Developer | Node.js | AWS | GraphQL | MongoDB | MySQL**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti-mishra-6986691b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srishti8092)
@@ -16,11 +16,11 @@
 
 ## 🎯 About Me
 
-**Backend Engineer** building high-performance, scalable systems using **Node.js** and modern cloud technologies. Passionate about API design, database optimization, and delivering measurable impact.
+**Backend Developer** building high-performance, scalable systems using **Node.js** and modern cloud technologies. Passionate about API design, database optimization, and delivering measurable impact.
 
 - 💻 Specialize in serverless architectures, GraphQL, and microservices
 - ⚡ Focus on performance optimization and system reliability
-- 🌍 Based in Bengaluru, India | Open to remote opportunities
+- 🌍 Based in **Bengaluru, India** | Actively open to new opportunities
 
 ---
 
@@ -41,7 +41,7 @@
 
 👨‍💻 **All of my projects are available at my [GitHub](https://github.com/srishti8092)**
 
-Checkout my public repositories instead of pinned repositories!
+Take a quick look at my public repositories.
 
 ---
 
