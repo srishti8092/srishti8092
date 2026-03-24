@@ -48,7 +48,7 @@ Check out my pinned repositories for the latest work!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=dark&cache_seconds=0" />
 </div>
 
 ---
