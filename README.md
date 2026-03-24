@@ -2,13 +2,13 @@
 
 <div align="center">
 
-**Backend Engineer | Node.js | AWS | GraphQL**
+**Backend Developer | Node.js | AWS | GraphQL | MongoDB | MySQL**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti-mishra-6986691b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srishti8092)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtimishra5672@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=srishti8092&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=srishti8092&color=0e75b6&label=Visitors&style=flat-square)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 🎯 About Me
 
-**Backend Engineer** building high-performance, scalable systems using **Node.js** and modern cloud technologies. Passionate about API design, database optimization, and delivering measurable impact.
+**Backend Developer** building high-performance, scalable systems using **Node.js** and modern cloud technologies. Passionate about API design, database optimization, and delivering measurable impact.
 
 - 💻 Specialize in serverless architectures, GraphQL, and microservices
 - ⚡ Focus on performance optimization and system reliability
-- 🌍 Based in Bengaluru, India | Open to remote opportunities
+- 🌍 Based in **Bengaluru, India** | Actively open to new opportunities
 
 ---
 
@@ -41,14 +41,20 @@
 
 👨‍💻 **All of my projects are available at my [GitHub](https://github.com/srishti8092)**
 
-Check out my pinned repositories for the latest work!
+Take a quick look at my public repositories.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=dark&cache_seconds=0" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti8092&theme=default&background=ffffff)](https://github.com/srishti8092)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti8092&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000)
+
 </div>
 
 ---
