@@ -51,7 +51,7 @@ Take a quick look at my public repositories.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti8092&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&cache_seconds=0)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti8092&theme=default&background=ffffff)](https://github.com/srishti8092)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti8092&theme=default&background=ffffff&cache_seconds=0)](https://github.com/srishti8092)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti8092&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&cache_seconds=0)
 
